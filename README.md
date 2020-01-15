@@ -1,2 +1,0 @@
-# Comps
-Created with CodeSandbox
